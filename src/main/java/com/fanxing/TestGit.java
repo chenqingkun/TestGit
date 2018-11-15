@@ -6,5 +6,6 @@ public class TestGit {
 		
 		System.out.println("left");
 		System.out.println("right");
+		System.out.println("hot_fix");
 	}
 }
